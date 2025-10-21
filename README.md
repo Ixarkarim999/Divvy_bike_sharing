@@ -1,11 +1,14 @@
 # Divvy_bike_sharing
 ## Intrduction
-We are analyzing Cyclistic, a bike-share company based in Chicago. The company has been operating since 2016 and currently manages a fleet of 5,824 bicycles across 692 stations.
+Cyclistic is a Chicago-based bike-sharing company that has been in operation since 2016. It manages a network of 5,824 bicycles distributed across 692 stations.
 
-Cyclistic offers two types of bicycles: • Traditional bikes (90% of total users) • Assistive bikes (10% of total users), designed for riders with disabilities or those unable to use standard two-wheelers.
+The company provides two categories of bicycles:
+Traditional bikes, used by about 90% of riders, and
+Assistive bikes, which make up the remaining 10%, designed to accommodate riders with disabilities or those who prefer additional support.
+According to usage data, approximately 70% of trips are taken for leisure, while 30% are for commuting purposes.
 
-Usage data shows that 70% of rides are for leisure purposes, while 30% are for daily commuting to work.
+Cyclistic caters to two primary customer segments:
 
-Cyclistic serves two main customer groups: • Annual members (subscription-based riders) • Casual riders (pay-per-ride users)
-
+Annual members, who use a subscription plan, and
+asual riders, who pay per ride.
 
